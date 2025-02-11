@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "reason":"sad",
+        "type": 1,
+        "employee_id": 1,
+        "status":1,
+        "date": "2024-09-08",
+        "created_at": "2024-09-08",
+        "updated_at": "2024-09-08"
+    },
+    {
+        "id":2,
+        "reason":"sad",
+        "type": 1,
+        "employee_id": 2,
+        "status":0,
+        "date": "2024-09-08",
+        "created_at": "2024-09-08",
+        "updated_at": "2024-09-08"
+    }
+]

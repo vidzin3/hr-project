@@ -1,0 +1,11 @@
+[
+    {
+        "id":1,
+        "name":"david",
+        "username":"dev",
+        "email":"david@gmail.com",
+        "password":"Pwd@12345",
+        "is_super":1,
+        "is_disabled":0
+    }
+]

@@ -1,0 +1,19 @@
+@font-face {
+    font-family: battambang;
+    src: url(font/khmer_os_battambang.ttf);
+}
+
+@font-face {
+    font-family: siemreap;
+    src: url(font/khmer_os_siemreap.ttf);
+}
+
+@font-face {
+    font-family: muol;
+    src: url(font/khmer_os_muol.ttf);
+}
+
+@font-face {
+    font-family: tacteng;
+    src: url(font/TACTENG.TTF);
+}
